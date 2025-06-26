@@ -13,6 +13,17 @@
       "tags": [
         "community-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "F4spVwALUBMZJCLRt2EfNE3ueGaEbE2GBaFcTSCs6BJu",
+      "symbol": "SGT",
+      "name": "Solgate",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/Masard-crew/token-list/main/assets/blockchains/solana/assets/F4spVwALUBMZJCLRt2EfNE3ueGaEbE2GBaFcTSCs6BJu/logo.png",
+      "tags": [
+        "community-token"
+      ]
     }
   ]
 }
